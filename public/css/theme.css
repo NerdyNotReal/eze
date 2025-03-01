@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --color-sementic-green: #32c270;
+    --color-sementic-orange: #f59e0b;
+    --color-sementic-red: #dc2626;
+    --color-sementic-blue: #4a90e2;
+    --color-primary-52: #2d44dd;
+    --color-primary-94: #e5e8fb;
+    --color-primary-3: #02040d;
+    --color-primary-86: #c1c8f5;
+    
+    --color-neutrals-2: #040404;
+    --color-neutrals-4: #0B0A0A;
+    --color-neutrals-6: #0F0F10;
+    --color-neutrals-8: #141415;
+    --color-neutrals-16: #28282a;
+    --color-neutrals-50: #7a7a85;
+    --color-neutrals-94: #efeff0;
+    --color-neutrals-98: #f4f4f5;
+
+    /* Semantic Light Colors */
+    --color-semantic-red-light: rgba(220, 38, 38, 0.1);
+    --color-semantic-green-light: rgba(50, 194, 112, 0.1);
+    --color-semantic-orange-light: rgba(245, 158, 11, 0.1);
+    --color-semantic-blue-light: rgba(74, 144, 226, 0.1);
+}

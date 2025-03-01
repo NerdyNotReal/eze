@@ -1,0 +1,48 @@
+/* RESET */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-size: inherit;
+    font-weight: inherit;
+    color: inherit;
+    margin: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    color: inherit;
+    text-decoration: initial;
+}
+
+label {
+	display: block;
+}
+
+
+textarea,input {
+    font: inherit;
+    /* border: initial; */
+    resize: none;
+    outline: initial; 
+}
+
+
+button {
+    all: unset;
+    font: inherit;
+    border: initial;
+    outline: initial; 
+    background-color: initial;
+    color: inherit;
+}
+
